@@ -2,5 +2,5 @@
 nom = input("Comment tu t'appelles ? ")
 
 # Afficher un message de bienvenue
-print(f"Bonjour, {nom} ! Bienvenue")
+print(f"Bonjour, {nom} ! Bienvenue dans notre programme.")
     
